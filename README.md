@@ -5,8 +5,8 @@ This is a uniform 2d mesh generator based on a C++ pre-processor. This code can 
 
 <img src="/MATPLOT.png"/>
 
-<h1>GUI</h1>
+<h1>GUI with the plot.</h1>
 
 <img src="/MESH_INFO.png"/>
 
-<h1>Plot and the cell information</h1>
+<h1>Cell information</h1>
